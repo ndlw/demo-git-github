@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 int main()
-{
+{   
+    //test			
     int diem = 10;
     char xep_loai = 'A';
     char hanh_kiem[] = "tot"; // Mảng hành kiểm
